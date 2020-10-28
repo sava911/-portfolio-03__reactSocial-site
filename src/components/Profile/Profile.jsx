@@ -4,7 +4,7 @@ import MyProfile from "./MyPosts/MyProfile";
 
 
 const Profile = () => {
-    return <div className={s.content}>
+    return <div>
 
         <div><img className={s.imgBanner} src="https://www.dw.com/image/50133636_401.jpg" alt=""/></div>
         <div>ava + text</div>

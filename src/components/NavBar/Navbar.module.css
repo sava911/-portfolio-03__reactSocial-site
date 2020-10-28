@@ -1,6 +1,7 @@
 .nav {
     grid-area: nav;
     background-color: rebeccapurple;
+    padding: 20px;
 
 }
 
@@ -11,7 +12,9 @@
 
 .item a  {
     color: white;
+    outline: none;
+    text-decoration: none;
 }
-.item.active a{
+.item a.active{
     color: greenyellow;
 }
