@@ -2,10 +2,13 @@
 .content {
     grid-area: content;
     background-color: blanchedalmond;
+
 }
 
+.container{
+    padding: 10px;
+}
 
-.imgBanner{
-    width: 100%;
-    height: 200px;
+.posts{
+    padding: 10px;
 }
