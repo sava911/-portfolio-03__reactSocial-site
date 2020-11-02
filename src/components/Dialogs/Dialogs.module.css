@@ -1,6 +1,3 @@
-.dialogsItems {
-    padding: 10px;
-}
 
 .dialogs {
     display: grid;
@@ -11,16 +8,8 @@
     padding: 10px;
 }
 
-.dialogsItems a {
-    color: black;
-    outline: none;
-    text-decoration: none;
-}
-
-.dialogsItems  .active {
-    color: greenyellow;
-}
 
 .massages {
     padding: 10px;
+    color: #fff;
 }

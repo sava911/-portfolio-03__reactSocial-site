@@ -1,0 +1,17 @@
+.dialogsItems {
+    padding: 10px;
+}
+
+
+
+.dialogsItems a {
+    color: white;
+    outline: none;
+    text-decoration: none;
+}
+
+.dialogsItems  .active {
+    color: greenyellow;
+}
+
+
